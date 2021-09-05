@@ -1,5 +1,5 @@
 {
-  "language": "English",
+  "language": "BRELEE",
   "startmenu.new_game": "LONELY",
   "startmenu.multiplayer": "SMARTER OPPONENT",
   "startmenu.resume_game": "COMEBACK",
